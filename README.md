@@ -1,5 +1,5 @@
 # AWS Cloud Resume Challenge
-This is my attempt for AWS Cloud Resume Challenge. The website I builded for this project is [hikmetiskif.com](https://hikmetiskif.com) .
+This is my attempt for AWS Cloud Resume Challenge. The website I built for this project is [hikmetiskif.com](https://hikmetiskif.com) .
 
 
 ## What is AWS Cloud Resume Challenge ?
